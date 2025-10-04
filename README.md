@@ -2,7 +2,7 @@
 
 A powerful network reconnaissance and man-in-the-middle attack tool for ethical hacking and penetration testing.
 
-![Eye Of Zeus Banner](Number_1.png)
+![Eye Of Zeus Banner](Screenshot1.png)
 
 ## Features
 
